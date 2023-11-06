@@ -7,7 +7,7 @@ module.exports = {
     production: {
       key: 'developer-portfolio.pem',
       user: 'ubuntu',
-      host: '54.162.60.27',
+      host: '3.87.37.193',
       ref: 'origin/main',
       repo: 'https://github.com/Leon2192/portfolio-deployment.git',
       path: '/home/ubuntu',
